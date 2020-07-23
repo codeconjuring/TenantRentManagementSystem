@@ -93,5 +93,33 @@
       </div><!-- /.container-fluid -->
     </section>
     <!-- /.content -->
+    <!-- Searchbox content -->
+    <section class="content">
+      <div class="container-fluid">
+        <div class="row">
+          <!-- left column -->
+          <div class="col-md-12">
+              <!-- form start -->
+              <form role="form" id="quickForm">
+                  <div class="form-group text-center my-3">
+                    <label for="exampleInputEmail1"><h3>Search Records</h3></label>
+                    <input type="email" name="email" class="form-control" id="exampleInputEmail1" placeholder="Enter keywords">
+                  </div>
+                  <div class="form-group text-center">
+                    <button type="submit" class="btn btn-lg btn-primary">Search</button>
+                  </div>
+              </form>
+            </div>
+          <!--/.col (left) -->
+          <!-- right column -->
+          <div class="col-md-6">
+
+          </div>
+          <!--/.col (right) -->
+        </div>
+        <!-- /.row -->
+      </div><!-- /.container-fluid -->
+    </section>
+    <!-- /.content -->
   </div>
 @endsection
