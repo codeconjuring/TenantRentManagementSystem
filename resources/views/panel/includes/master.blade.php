@@ -3,3 +3,4 @@
 @include('panel.includes.sidebar')
 @yield('content')
 @include('panel.includes.footer')
+@include('panel.includes.scripts')

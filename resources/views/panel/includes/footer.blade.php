@@ -12,7 +12,6 @@
     <!-- Control sidebar content goes here -->
   </aside>
   <!-- /.control-sidebar -->
-</div>
+
 <!-- ./wrapper -->
-@include('panel.includes.scripts')
-</body>
+</div>
