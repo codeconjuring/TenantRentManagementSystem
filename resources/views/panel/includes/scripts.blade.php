@@ -1,5 +1,6 @@
 <!-- jQuery -->
 <script src="{{asset('public/assets/plugins/jquery/jquery.min.js')}}"></script>
+<script src="https://cdn.thinkgeo.com/vectormap-js/3.0.0/vectormap.js"></script>
 <!-- jQuery UI 1.11.4 -->
 <script src="{{asset('public/assets/plugins/jquery-ui/jquery-ui.min.js')}}"></script>
 <!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
@@ -12,9 +13,6 @@
 <script src="{{asset('public/assets/plugins/chart.js/Chart.min.js')}}"></script>
 <!-- Sparkline -->
 <script src="{{asset('public/assets/plugins/sparklines/sparkline.js')}}"></script>
-<!-- JQVMap -->
-<script src="{{asset('public/assets/plugins/jqvmap/jquery.vmap.min.js')}}"></script>
-<script src="{{asset('public/assets/plugins/jqvmap/maps/jquery.vmap.usa.js')}}"></script>
 <!-- jQuery Knob Chart -->
 <script src="{{asset('public/assets/plugins/jquery-knob/jquery.knob.min.js')}}"></script>
 <!-- daterangepicker -->
